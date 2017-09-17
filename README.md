@@ -1,2 +1,2 @@
 # Aviator
-AI Autopilot
+Aviator is an AI Autopilot
